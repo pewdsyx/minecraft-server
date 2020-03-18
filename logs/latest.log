@@ -1,38 +1,219 @@
-[19:37:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:37:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:37:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:37:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:37:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:37:20] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:37:20] [Server thread/INFO]: Loading properties
-[19:37:20] [Server thread/INFO]: Default game type: SURVIVAL
-[19:37:20] [Server thread/INFO]: Generating keypair
-[19:37:21] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
-[19:37:21] [Server thread/INFO]: Using default channel type
-[19:37:26] [Server thread/INFO]: Preparing level "world"
-[19:37:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:37:30] [Server thread/INFO]: Loaded 6 recipes
-[19:37:31] [Server thread/INFO]: Loaded 825 advancements
-[19:37:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:37:32] [Server thread/INFO]: Preparing spawn area: 0%
-[19:37:32] [Server thread/INFO]: Preparing spawn area: 0%
-[19:37:32] [Server thread/INFO]: Preparing spawn area: 0%
-[19:37:33] [Server thread/INFO]: Preparing spawn area: 0%
-[19:37:33] [Server thread/INFO]: Preparing spawn area: 25%
-[19:37:33] [Server thread/INFO]: Time elapsed: 2385 ms
-[19:37:33] [Server thread/INFO]: Done (7.185s)! For help, type "help"
-[19:37:47] [Server thread/INFO]: Unknown command
-[19:37:47] [Server thread/INFO]: sop<--[HERE]
-[19:37:49] [Server thread/INFO]: Stopping the server
-[19:37:49] [Server thread/INFO]: Stopping server
-[19:37:49] [Server thread/INFO]: Saving players
-[19:37:49] [Server thread/INFO]: Saving worlds
-[19:37:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:37:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:37:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:37:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:31:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:31:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:31:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:31:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:31:22] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:31:22] [Server thread/INFO]: Loading properties
+[17:31:22] [Server thread/INFO]: Default game type: SURVIVAL
+[17:31:22] [Server thread/INFO]: Generating keypair
+[17:31:22] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
+[17:31:22] [Server thread/INFO]: Using default channel type
+[17:31:23] [Server thread/INFO]: Preparing level "world"
+[17:31:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:31:30] [Server thread/INFO]: Loaded 6 recipes
+[17:31:30] [Server thread/INFO]: Loaded 825 advancements
+[17:31:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:31:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:31:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:31:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:31:32] [Server thread/INFO]: Preparing spawn area: 43%
+[17:31:32] [Server thread/INFO]: Time elapsed: 1871 ms
+[17:31:32] [Server thread/INFO]: Done (8.966s)! For help, type "help"
+[17:33:09] [User Authenticator #1/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[17:33:09] [Server thread/INFO]: IllIllIllII[/172.22.122.52:2455] logged in with entity id 318 at (-312.57947110038884, 74.0, 243.2513864178454)
+[17:33:09] [Server thread/INFO]: IllIllIllII joined the game
+[17:42:59] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[17:42:59] [Server thread/INFO]: IllIllIllII left the game
+[17:43:27] [User Authenticator #2/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[17:43:27] [Server thread/INFO]: IllIllIllII[/172.22.122.52:3210] logged in with entity id 2408 at (-309.69999998807907, 84.0, 251.68708040774285)
+[17:43:27] [Server thread/INFO]: IllIllIllII joined the game
+[18:06:30] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:06:30] [Server thread/INFO]: IllIllIllII left the game
+[18:06:54] [User Authenticator #3/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:06:54] [Server thread/INFO]: IllIllIllII[/172.22.122.52:4819] logged in with entity id 6945 at (-311.5791053847278, 84.0, 244.2870836093511)
+[18:06:54] [Server thread/INFO]: IllIllIllII joined the game
+[18:10:40] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:10:40] [Server thread/INFO]: IllIllIllII left the game
+[18:10:57] [User Authenticator #4/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:10:57] [Server thread/INFO]: IllIllIllII[/172.22.122.52:5115] logged in with entity id 7374 at (-309.5064535603407, 92.5, 247.84957759745473)
+[18:10:57] [Server thread/INFO]: IllIllIllII joined the game
+[18:13:06] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:13:06] [Server thread/INFO]: IllIllIllII left the game
+[18:13:37] [User Authenticator #5/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:13:37] [Server thread/INFO]: IllIllIllII[/172.22.122.52:5304] logged in with entity id 7605 at (-310.1021016331016, 90.0, 242.3369027347449)
+[18:13:37] [Server thread/INFO]: IllIllIllII joined the game
+[18:17:31] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:17:31] [Server thread/INFO]: IllIllIllII left the game
+[18:18:05] [User Authenticator #6/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:18:05] [Server thread/INFO]: IllIllIllII[/172.22.122.52:5630] logged in with entity id 8272 at (-315.7953986050924, 74.0, 246.92483801779997)
+[18:18:05] [Server thread/INFO]: IllIllIllII joined the game
+[18:29:51] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:29:51] [Server thread/INFO]: IllIllIllII left the game
+[18:31:40] [User Authenticator #7/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:31:40] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6587] logged in with entity id 9654 at (-314.69890397974217, 71.0, 248.30000001192093)
+[18:31:40] [Server thread/INFO]: IllIllIllII joined the game
+[19:08:10] [User Authenticator #8/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[19:08:10] [Server thread/INFO]: iPewds[/172.22.188.90:56310] logged in with entity id 14974 at (-318.89618074404166, 79.0, 249.53246878627533)
+[19:08:10] [Server thread/INFO]: iPewds joined the game
+[19:16:57] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[19:19:42] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[19:30:22] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[19:31:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-334, y=70, z=239} fk{x=-334, y=69, z=239}
+[19:32:44] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[19:37:09] [Server thread/WARN]: Fetching packet for removed entity awb['Sugar Cane'/20537, l='world', x=-281.13, y=63.75, z=217.06]
+[19:59:53] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[20:00:13] [Server thread/INFO]: iPewds lost connection: Disconnected
+[20:00:13] [Server thread/INFO]: iPewds left the game
+[20:17:41] [User Authenticator #9/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[20:17:41] [Server thread/INFO]: iPewds[/172.22.188.90:60751] logged in with entity id 28298 at (-271.3096248976361, 64.0, 219.93038189466526)
+[20:17:41] [Server thread/INFO]: iPewds joined the game
+[20:18:28] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[20:22:56] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[20:27:40] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[20:30:10] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[20:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[20:35:22] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[20:46:55] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[20:56:24] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[20:57:50] [Server thread/INFO]: [iPewds: Set the time to 13000]
+[20:57:56] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[21:00:28] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[21:08:57] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[21:10:06] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[21:12:25] [Server thread/INFO]: iPewds lost connection: Disconnected
+[21:12:25] [Server thread/INFO]: iPewds left the game
+[21:12:33] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:12:33] [Server thread/INFO]: Saved the game
+[21:32:54] [Server thread/INFO]: There are 1 of a max 20 players online: IllIllIllII
+[21:48:44] [Server thread/INFO]: No player was found
+[21:48:49] [Server thread/INFO]: There are 1 of a max 20 players online: IllIllIllII
+[21:48:54] [Server thread/INFO]: [Server] komme gleich
+[21:48:58] [Server thread/INFO]: [Server] 2min
+[21:56:17] [User Authenticator #10/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[21:56:17] [Server thread/INFO]: iPewds[/172.22.188.90:50845] logged in with entity id 45274 at (-299.58776172808535, 72.0, 238.6640662734745)
+[21:56:17] [Server thread/INFO]: iPewds joined the game
+[21:56:30] [Server thread/INFO]: <iPewds> wieder da
+[21:56:45] [Server thread/INFO]: <IllIllIllII> Jaaaaaaaa
+[21:56:50] [Server thread/INFO]: <iPewds> ahahhaa
+[21:57:08] [Server thread/INFO]: <iPewds> wo bist du
+[21:57:20] [Server thread/INFO]: <IllIllIllII> in meinem Haus
+[21:57:46] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[21:58:38] [Server thread/INFO]: <iPewds> irgendwie geht discord nicht
+[22:00:11] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:00:29] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:00:42] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[22:01:15] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[22:04:51] [Server thread/INFO]: <iPewds> micro spinnt
+[22:04:53] [Server thread/INFO]: <iPewds> gleich da
+[22:06:13] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:06:54] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:07:16] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[22:12:44] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:12:56] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:13:10] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:14:38] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[22:15:48] [Server thread/INFO]: iPewds lost connection: Disconnected
+[22:15:48] [Server thread/INFO]: iPewds left the game
+[22:16:58] [User Authenticator #11/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[22:16:58] [Server thread/INFO]: iPewds[/172.22.188.90:52289] logged in with entity id 49826 at (-377.6500677048934, 73.0, 194.57398140745266)
+[22:16:58] [Server thread/INFO]: iPewds joined the game
+[22:23:51] [Server thread/WARN]: Fetching packet for removed entity awb['Glass'/51001, l='world', x=-312.91, y=77.14, z=252.88]
+[22:23:51] [Server thread/WARN]: Fetching packet for removed entity awb['Glass'/51002, l='world', x=-312.91, y=77.14, z=252.88]
+[22:25:50] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:27:00] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:27:39] [Server thread/INFO]: There are 2 of a max 20 players online: IllIllIllII, iPewds
+[22:30:03] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:30:32] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[22:30:37] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:31:02] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:31:36] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:32:14] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:32:18] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[22:32:18] [Server thread/INFO]: IllIllIllII left the game
+[22:32:38] [Server thread/INFO]: [iPewds: Set the world spawn point to -217, 63, 80]
+[22:32:53] [Server thread/INFO]: [iPewds: Set the world spawn point to -217, 63, 80]
+[22:35:47] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[22:38:00] [User Authenticator #12/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[22:38:00] [Server thread/INFO]: IllIllIllII[/172.22.122.52:23509] logged in with entity id 54041 at (-362.61990815005356, 72.0, 195.15325076482046)
+[22:38:00] [Server thread/INFO]: IllIllIllII joined the game
+[22:38:00] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:39:02] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:39:36] [Server thread/WARN]: IllIllIllII moved wrongly!
+[22:39:42] [Server thread/WARN]: IllIllIllII moved wrongly!
+[22:40:18] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[22:41:02] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-297, y=65, z=204} fk{x=-296, y=64, z=204}
+[22:41:46] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[22:42:02] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:42:21] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:43:12] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:44:12] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:44:46] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:47:15] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:48:11] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:48:22] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:48:52] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[22:48:52] [Server thread/INFO]: IllIllIllII left the game
+[22:48:58] [User Authenticator #13/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[22:48:58] [Server thread/INFO]: IllIllIllII[/172.22.122.52:24271] logged in with entity id 56434 at (-215.50700067404705, 63.0, 83.92857982096024)
+[22:48:58] [Server thread/INFO]: IllIllIllII joined the game
+[22:48:58] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:49:20] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:49:40] [Server thread/INFO]: [iPewds: Set the world spawn point to -219, 63, 110]
+[22:50:03] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:52:21] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[22:54:30] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:54:45] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:56:23] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:56:44] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:57:39] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:58:23] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:58:34] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:58:59] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:59:01] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:59:14] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:59:15] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[22:59:38] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:00:30] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:00:55] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:01:27] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:01:41] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:02:01] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:02:17] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:02:18] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:02:24] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:02:29] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:03:18] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:03:24] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:04:23] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:04:32] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:04:53] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:05:02] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:05:40] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:06:26] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[23:06:55] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:07:18] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/40871, l='world', x=-283.50, y=65.00, z=130.50]
+[23:07:19] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[23:07:19] [Server thread/INFO]: IllIllIllII left the game
+[23:07:40] [Server thread/INFO]: iPewds lost connection: Disconnected
+[23:07:40] [Server thread/INFO]: iPewds left the game
+[23:07:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:07:46] [Server thread/INFO]: Saved the game
+[23:07:49] [Server thread/INFO]: Stopping the server
+[23:07:49] [Server thread/INFO]: Stopping server
+[23:07:49] [Server thread/INFO]: Saving players
+[23:07:49] [Server thread/INFO]: Saving worlds
+[23:07:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
