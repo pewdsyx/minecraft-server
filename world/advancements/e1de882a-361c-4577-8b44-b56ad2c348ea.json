@@ -306,6 +306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-22 21:53:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-02-16 21:00:32 +0100"
@@ -578,6 +584,7 @@
       "minecraft:creeper": "2020-02-15 22:14:06 +0100",
       "minecraft:slime": "2020-02-27 18:25:22 +0100",
       "minecraft:phantom": "2020-03-15 16:28:25 +0100",
+      "minecraft:enderman": "2020-03-19 21:43:28 +0100",
       "minecraft:zombie": "2020-02-16 17:12:08 +0100",
       "minecraft:drowned": "2020-03-18 22:34:22 +0100",
       "minecraft:zombie_villager": "2020-03-15 16:42:30 +0100"
@@ -737,6 +744,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-18 20:35:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-03-22 22:09:54 +0100"
     },
     "done": true
   },
@@ -1215,6 +1228,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-02-16 21:00:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-22 21:54:23 +0100"
     },
     "done": true
   },
@@ -2031,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-22 21:53:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-02-15 21:31:33 +0100"
@@ -2247,6 +2272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-22 21:54:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-02-15 19:36:54 +0100"
@@ -2256,6 +2287,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-15 21:31:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-03-22 21:54:59 +0100"
     },
     "done": true
   },
@@ -2364,6 +2401,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-02-15 22:06:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2020-03-19 21:00:44 +0100"
     },
     "done": true
   },
@@ -2496,6 +2539,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2020-02-27 18:21:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-03-22 22:07:30 +0100"
     },
     "done": true
   },
