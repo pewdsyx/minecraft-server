@@ -1,254 +1,200 @@
-[15:44:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:44:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:30] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:44:30] [Server thread/INFO]: Loading properties
-[15:44:30] [Server thread/INFO]: Default game type: SURVIVAL
-[15:44:30] [Server thread/INFO]: Generating keypair
-[15:44:30] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
-[15:44:30] [Server thread/INFO]: Using default channel type
-[15:44:30] [Server thread/INFO]: Preparing level "world"
-[15:44:30] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:44:31] [Server thread/INFO]: Loaded 6 recipes
-[15:44:31] [Server thread/INFO]: Loaded 825 advancements
-[15:44:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:44:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:32] [Server thread/INFO]: Time elapsed: 1356 ms
-[15:44:32] [Server thread/INFO]: Done (2.432s)! For help, type "help"
-[15:44:35] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[15:45:14] [User Authenticator #1/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[15:45:15] [Server thread/INFO]: IllIllIllII[/172.22.122.52:2461] logged in with entity id 369 at (-316.58259842698044, 84.0, 249.71430088990883)
-[15:45:15] [Server thread/INFO]: IllIllIllII joined the game
-[16:09:51] [Server thread/INFO]: [Server] bin gleich da letzter teller essen :D
-[16:10:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-320, y=81, z=246} fk{x=-320, y=83, z=246}
-[16:16:50] [Server thread/WARN]: IllIllIllII moved too quickly! -0.8013651697041269,3.1661092609382138,-9.835925635078297
-[16:22:14] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[16:22:14] [Server thread/INFO]: IllIllIllII left the game
-[16:22:33] [User Authenticator #2/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[16:22:33] [Server thread/INFO]: IllIllIllII[/172.22.122.52:5135] logged in with entity id 5596 at (-327.29885091974955, 88.0, 255.2648399313382)
-[16:22:33] [Server thread/INFO]: IllIllIllII joined the game
-[16:25:05] [User Authenticator #3/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
-[16:25:05] [Server thread/INFO]: iPewds[/172.22.188.90:53175] logged in with entity id 5876 at (-267.73070307138914, 64.0, 218.2887721289043)
-[16:25:05] [Server thread/INFO]: iPewds joined the game
-[16:26:20] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[16:26:27] [Server thread/INFO]: [iPewds: Set the weather to clear]
-[16:27:39] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[16:32:40] [Server thread/INFO]: [iPewds: Set the weather to clear]
-[16:33:42] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[16:33:42] [Server thread/INFO]: IllIllIllII left the game
-[16:34:13] [Server thread/INFO]: [iPewds: Set the weather to clear]
-[16:34:28] [User Authenticator #4/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[16:34:29] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6146] logged in with entity id 7427 at (-310.5555887334099, 93.5, 243.16327741481226)
-[16:34:29] [Server thread/INFO]: IllIllIllII joined the game
-[16:38:55] [Server thread/INFO]: <iPewds> bett
-[16:38:56] [Server thread/INFO]: <iPewds> :D
-[16:39:09] [Server thread/INFO]: Villager axw['Villager'/65, l='world', x=-258.68, y=68.80, z=154.47] died, message: 'Villager was slain by iPewds'
-[16:39:22] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[16:52:47] [Server thread/INFO]: <iPewds> papa ist in kur und der hat gerade angerufen
-[16:52:55] [Server thread/INFO]: <iPewds> ich rufe dich gleich wieder an
-[16:54:07] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[16:54:07] [Server thread/INFO]: IllIllIllII left the game
-[16:54:34] [User Authenticator #5/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[16:54:34] [Server thread/INFO]: IllIllIllII[/172.22.122.52:7538] logged in with entity id 11718 at (-223.59608775989489, 68.0, 85.22556827906375)
-[16:54:34] [Server thread/INFO]: IllIllIllII joined the game
-[17:00:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-250, y=64, z=83} fk{x=-250, y=63, z=82}
-[17:05:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-254, y=64, z=75} fk{x=-255, y=64, z=76}
-[17:05:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-254, y=64, z=75} fk{x=-255, y=64, z=76}
-[17:09:35] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[17:14:43] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[17:14:43] [Server thread/INFO]: IllIllIllII left the game
-[17:15:13] [User Authenticator #6/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[17:15:13] [Server thread/INFO]: IllIllIllII[/172.22.122.52:8978] logged in with entity id 15786 at (-218.9333196632584, 63.0, 85.43757051384763)
-[17:15:13] [Server thread/INFO]: IllIllIllII joined the game
-[17:19:33] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[17:26:22] [Server thread/WARN]: IllIllIllII moved too quickly! 6.876860426190319,-1.5040129017765196,-7.367398603908015
-[17:30:26] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[17:32:06] [Server thread/INFO]: <iPewds> gleich wieder da :D rufe dich gleich an
-[17:43:13] [Server thread/INFO]: iPewds drowned
-[17:43:29] [Server thread/INFO]: IllIllIllII has reached the goal [Sky's the Limit]
-[17:54:42] [Server thread/INFO]: [iPewds: Set 5 experience points on iPewds]
-[17:55:02] [Server thread/INFO]: [iPewds: Set 10 experience levels on iPewds]
-[17:55:04] [Server thread/INFO]: [iPewds: Set 10 experience levels on iPewds]
-[17:55:09] [Server thread/INFO]: [iPewds: Set 100 experience levels on iPewds]
-[17:55:21] [Server thread/INFO]: [iPewds: Set 1000 experience levels on iPewds]
-[17:55:33] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Creative Mode]
-[17:55:33] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[18:09:32] [Server thread/WARN]: IllIllIllII moved too quickly! -5.963418529622004,-7.500000298023224,-3.7837605480711574
-[18:19:31] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[18:36:33] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[18:40:26] [Server thread/WARN]: IllIllIllII moved too quickly! 5.144301862707607,-2.994426627447183,8.10038507470449
-[18:55:46] [Server thread/WARN]: IllIllIllII moved too quickly! -4.877304429523917,2.508988523173855,8.423785190961524
-[18:58:40] [Server thread/WARN]: IllIllIllII moved too quickly! -4.015876163582391,-2.309558664237926,8.872361655720226
-[18:58:58] [Server thread/WARN]: IllIllIllII moved too quickly! 3.55222439975239,-0.11042707544181951,-9.680315678684593
-[19:08:58] [Server thread/WARN]: IllIllIllII moved too quickly! 8.066434360812138,5.605997138222804,2.104844008873414
-[19:19:18] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[19:19:18] [Server thread/INFO]: IllIllIllII left the game
-[19:19:24] [Server thread/INFO]: [iPewds: Set the time to 13000]
-[19:19:40] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[19:19:44] [User Authenticator #7/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[19:19:45] [Server thread/INFO]: IllIllIllII[/172.22.122.52:17480] logged in with entity id 36830 at (-336.5145121565587, 92.11974724470112, 246.58526097794885)
-[19:19:45] [Server thread/INFO]: IllIllIllII joined the game
-[19:28:20] [Server thread/INFO]: [iPewds: Set the time to 13000]
-[19:30:17] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[19:30:17] [Server thread/INFO]: IllIllIllII left the game
-[19:32:24] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[19:32:27] [User Authenticator #8/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[19:32:27] [Server thread/INFO]: IllIllIllII[/172.22.122.52:18387] logged in with entity id 39557 at (-320.41860567483076, 94.0, 246.3707656751597)
-[19:32:27] [Server thread/INFO]: IllIllIllII joined the game
-[19:36:08] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[19:36:27] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[19:40:14] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[19:44:59] [Server thread/INFO]: iPewds lost connection: Disconnected
-[19:44:59] [Server thread/INFO]: iPewds left the game
-[19:51:52] [Server thread/INFO]: There are 1 of a max 20 players online: IllIllIllII
-[20:23:19] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:23:19] [Server thread/INFO]: IllIllIllII left the game
-[20:23:55] [User Authenticator #9/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:23:55] [Server thread/INFO]: IllIllIllII[/172.22.122.52:22136] logged in with entity id 46785 at (-326.9168890517475, 97.13267008568272, 247.61770091596716)
-[20:23:55] [Server thread/INFO]: IllIllIllII joined the game
-[20:28:08] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:28:08] [Server thread/INFO]: IllIllIllII left the game
-[20:28:42] [User Authenticator #10/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:28:42] [Server thread/INFO]: IllIllIllII[/172.22.122.52:22486] logged in with entity id 47288 at (-321.58720982263935, 91.61084826530387, 256.6062658920224)
-[20:28:42] [Server thread/INFO]: IllIllIllII joined the game
-[20:29:41] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:29:41] [Server thread/INFO]: IllIllIllII left the game
-[20:30:03] [User Authenticator #11/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:30:03] [Server thread/INFO]: IllIllIllII[/172.22.122.52:22581] logged in with entity id 47456 at (-315.7078674600041, 93.17047192696022, 260.5419957599124)
-[20:30:03] [Server thread/INFO]: IllIllIllII joined the game
-[20:31:31] [Server thread/INFO]: Incorrect argument for command
-[20:31:31] [Server thread/INFO]: gamemode survial @a<--[HERE]
-[20:31:40] [Server thread/INFO]: Incorrect argument for command
-[20:31:40] [Server thread/INFO]: /gamemode survial @a<--[HERE]
-[20:32:05] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:32:05] [Server thread/INFO]: IllIllIllII left the game
-[20:32:31] [User Authenticator #12/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:32:31] [Server thread/INFO]: IllIllIllII[/172.22.122.52:22798] logged in with entity id 47794 at (-318.631378423624, 92.73409430577728, 258.3584518831734)
-[20:32:31] [Server thread/INFO]: IllIllIllII joined the game
-[20:33:02] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:33:02] [Server thread/INFO]: IllIllIllII left the game
-[20:33:25] [User Authenticator #13/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:33:25] [Server thread/INFO]: IllIllIllII[/172.22.122.52:22870] logged in with entity id 47908 at (-320.0267970733461, 89.36648918528549, 259.0755463215487)
-[20:33:25] [Server thread/INFO]: IllIllIllII joined the game
-[20:36:41] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:36:41] [Server thread/INFO]: IllIllIllII left the game
-[20:36:59] [User Authenticator #14/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:36:59] [Server thread/INFO]: IllIllIllII[/172.22.122.52:23113] logged in with entity id 48313 at (-323.8378670531481, 93.22782916679552, 231.33743179292483)
-[20:36:59] [Server thread/INFO]: IllIllIllII joined the game
-[20:39:34] [Server thread/WARN]: IllIllIllII moved too quickly! -1.5762752958715396,0.0,10.20840847038096
-[20:45:05] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:45:05] [Server thread/INFO]: IllIllIllII left the game
-[20:45:27] [User Authenticator #15/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:45:27] [Server thread/INFO]: IllIllIllII[/172.22.122.52:23744] logged in with entity id 49339 at (-323.98750001192093, 76.20000004768372, 242.25691281093364)
-[20:45:27] [Server thread/INFO]: IllIllIllII joined the game
-[20:57:59] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[20:57:59] [Server thread/INFO]: IllIllIllII left the game
-[20:58:24] [User Authenticator #16/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[20:58:24] [Server thread/INFO]: IllIllIllII[/172.22.122.52:24709] logged in with entity id 50884 at (-320.4337964683996, 69.0, 253.95841577910642)
-[20:58:24] [Server thread/INFO]: IllIllIllII joined the game
-[21:00:10] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[21:00:10] [Server thread/INFO]: IllIllIllII left the game
-[21:00:34] [User Authenticator #17/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[21:00:34] [Server thread/INFO]: IllIllIllII[/172.22.122.52:24855] logged in with entity id 51075 at (-321.6497636240799, 69.0, 255.1252922884373)
-[21:00:34] [Server thread/INFO]: IllIllIllII joined the game
-[21:02:22] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[21:02:22] [Server thread/INFO]: IllIllIllII left the game
-[21:02:43] [User Authenticator #18/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[21:02:43] [Server thread/INFO]: IllIllIllII[/172.22.122.52:25020] logged in with entity id 51283 at (-327.9230889136689, 69.20326429430264, 254.17363943175755)
-[21:02:43] [Server thread/INFO]: IllIllIllII joined the game
-[21:04:33] [User Authenticator #19/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
-[21:04:33] [Server thread/INFO]: iPewds[/172.22.188.90:54718] logged in with entity id 51490 at (-225.2197054324014, 70.86859856141189, 228.60475657857563)
-[21:04:33] [Server thread/INFO]: iPewds joined the game
-[21:04:46] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[21:04:46] [Server thread/INFO]: IllIllIllII left the game
-[21:05:05] [User Authenticator #20/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
-[21:05:05] [Server thread/INFO]: IllIllIllII[/172.22.122.52:25221] logged in with entity id 51766 at (-325.46272450315024, 69.70493402823674, 252.59017372177493)
-[21:05:05] [Server thread/INFO]: IllIllIllII joined the game
-[21:07:02] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:11:31] [Server thread/INFO]: iPewds fell from a high place
-[21:11:50] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:13:31] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[21:16:31] [Server thread/INFO]: [iPewds: Applied enchantment Loyalty III to iPewds's item]
-[21:19:16] [Server thread/INFO]: [iPewds: Applied enchantment Impaling V to iPewds's item]
-[21:19:39] [Server thread/INFO]: [iPewds: Applied enchantment Unbreaking III to iPewds's item]
-[21:20:15] [Server thread/INFO]: [iPewds: Applied enchantment Curse of Vanishing to iPewds's item]
-[21:20:35] [Server thread/INFO]: [iPewds: Applied enchantment Channeling to iPewds's item]
-[21:21:33] [Server thread/INFO]: [iPewds: Applied enchantment Power V to iPewds's item]
-[21:21:59] [Server thread/INFO]: [iPewds: Applied enchantment Punch II to iPewds's item]
-[21:22:09] [Server thread/INFO]: [iPewds: Applied enchantment Flame to iPewds's item]
-[21:22:34] [Server thread/INFO]: [iPewds: Applied enchantment Infinity to iPewds's item]
-[21:22:48] [Server thread/INFO]: [iPewds: Applied enchantment Unbreaking III to iPewds's item]
-[21:22:59] [Server thread/INFO]: [iPewds: Applied enchantment Curse of Vanishing to iPewds's item]
-[21:23:55] [Server thread/INFO]: [iPewds: Applied enchantment Quick Charge III to iPewds's item]
-[21:24:06] [Server thread/INFO]: [iPewds: Applied enchantment Multishot to iPewds's item]
-[21:24:32] [Server thread/INFO]: [iPewds: Applied enchantment Unbreaking III to iPewds's item]
-[21:24:46] [Server thread/INFO]: [iPewds: Applied enchantment Curse of Vanishing to iPewds's item]
-[21:25:41] [Server thread/INFO]: [iPewds: Gamerule keepInventory is now set to: true]
-[21:25:57] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Survival Mode]
-[21:25:57] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:27:33] [Server thread/INFO]: [iPewds: Applied enchantment Quick Charge III to iPewds's item]
-[21:27:48] [Server thread/INFO]: [iPewds: Applied enchantment Piercing IV to iPewds's item]
-[21:27:58] [Server thread/INFO]: [iPewds: Applied enchantment Unbreaking III to iPewds's item]
-[21:28:11] [Server thread/INFO]: [iPewds: Applied enchantment Mending to iPewds's item]
-[21:28:24] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Creative Mode]
-[21:28:24] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:28:33] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Survival Mode]
-[21:28:33] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:29:50] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:30:06] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:35:00] [Server thread/INFO]: [iPewds: Set the time to 13000]
-[21:36:40] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:36:50] [Server thread/INFO]: IllIllIllII has made the advancement [Take Aim]
-[21:40:43] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:42:47] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:44:43] [Server thread/INFO]: [iPewds: Teleported iPewds to IllIllIllII]
-[21:44:43] [Server thread/WARN]: iPewds moved too quickly! -90.33555075482349,6.926734827573867,145.84751834259976
-[21:45:19] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[21:46:08] [Server thread/INFO]: [iPewds: Gamerule fallDamage is now set to: false]
-[21:46:51] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
-[21:51:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59606, l='world', x=-280.98, y=64.00, z=213.91]
-[21:51:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59606, l='world', x=-280.98, y=64.00, z=213.91]
-[21:52:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59862, l='world', x=-326.05, y=98.00, z=249.68]
-[21:52:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59862, l='world', x=-326.05, y=98.00, z=249.68]
-[21:54:59] [Server thread/INFO]: iPewds has made the advancement [A Throwaway Joke]
-[22:02:17] [Server thread/WARN]: IllIllIllII moved too quickly! 9.608047725452423,-0.41999998688697815,-2.897611023227597
-[22:09:54] [Server thread/INFO]: iPewds has made the advancement [Best Friends Forever]
-[22:12:09] [Server thread/INFO]: IllIllIllII has made the advancement [Best Friends Forever]
-[22:12:20] [Server thread/WARN]: IllIllIllII moved wrongly!
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.5272211466667613,-1.0,-9.707543142830787
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.4727227281471755,-1.0,-10.242785108084945
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.426200640574109,-1.0,-10.779241077126244
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.3904966497128157,-1.0,-11.316715337965661
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.3684603450407167,-1.0,-11.854950566373304
-[22:13:26] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 2.3615953568185546,-1.0,-12.393561717750913
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9109641368174266,-1.0,11.24671189515061
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.909518732821823,-1.0,10.709903645079294
-[22:13:27] [Server thread/WARN]: Horse (vehicle of IllIllIllII) moved too quickly! 0.9503818265966402,-1.0,10.175360843358874
-[22:17:16] [Server thread/INFO]: [iPewds: Set the time to 1000]
-[22:23:27] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
-[22:25:33] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
-[22:25:33] [Server thread/INFO]: IllIllIllII left the game
-[22:25:34] [Server thread/INFO]: iPewds lost connection: Disconnected
-[22:25:34] [Server thread/INFO]: iPewds left the game
-[22:25:44] [Server thread/INFO]: There are 0 of a max 20 players online: 
-[22:25:47] [Server thread/INFO]: Stopping the server
-[22:25:47] [Server thread/INFO]: Stopping server
-[22:25:47] [Server thread/INFO]: Saving players
-[22:25:47] [Server thread/INFO]: Saving worlds
-[22:25:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:25:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:25:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:29:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:29:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:36] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:29:36] [Server thread/INFO]: Loading properties
+[18:29:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:36] [Server thread/INFO]: Generating keypair
+[18:29:36] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
+[18:29:36] [Server thread/INFO]: Using default channel type
+[18:29:37] [Server thread/INFO]: Preparing level "world"
+[18:29:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:29:44] [Server thread/INFO]: Loaded 6 recipes
+[18:29:44] [Server thread/INFO]: Loaded 825 advancements
+[18:29:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:29:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:46] [Server thread/INFO]: Time elapsed: 2018 ms
+[18:29:46] [Server thread/INFO]: Done (9.595s)! For help, type "help"
+[18:30:39] [User Authenticator #1/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:30:40] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6004] logged in with entity id 468 at (-325.474624647378, 77.5, 245.02130824077253)
+[18:30:40] [Server thread/INFO]: IllIllIllII joined the game
+[18:31:03] [Server thread/INFO]: [Server] jetzt geht es :D
+[18:31:06] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:31:06] [Server thread/INFO]: IllIllIllII left the game
+[18:32:02] [User Authenticator #2/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:32:02] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6132] logged in with entity id 624 at (-325.46842467761405, 77.5, 247.4721242578371)
+[18:32:02] [Server thread/INFO]: IllIllIllII joined the game
+[18:35:17] [Server thread/INFO]: [Server] komme bald :D
+[18:35:59] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[18:35:59] [Server thread/INFO]: IllIllIllII left the game
+[18:37:28] [User Authenticator #3/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[18:37:28] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6579] logged in with entity id 1266 at (-216.5531886035264, 63.0, 92.59077324652888)
+[18:37:28] [Server thread/INFO]: IllIllIllII joined the game
+[18:50:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-215, y=66, z=111}
+[18:55:58] [Server thread/WARN]: IllIllIllII moved wrongly!
+[19:02:03] [Server thread/INFO]: Unknown command
+[19:02:03] [Server thread/INFO]: loist<--[HERE]
+[19:02:05] [Server thread/INFO]: There are 1 of a max 20 players online: IllIllIllII
+[19:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:10:35] [User Authenticator #4/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[19:10:35] [Server thread/INFO]: iPewds[/172.22.188.90:53295] logged in with entity id 10328 at (-260.6878425244024, 64.0, 164.95219283304286)
+[19:10:35] [Server thread/INFO]: iPewds joined the game
+[19:11:57] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[19:11:58] [Server thread/WARN]: IllIllIllII moved wrongly!
+[19:13:12] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[19:13:59] [Server thread/INFO]: [iPewds: Teleported iPewds to 0.5, 0.0, 0.5]
+[19:13:59] [Server thread/WARN]: iPewds moved too quickly! 255.1121551312035,-64.0,-222.63603708081814
+[19:13:59] [Server thread/WARN]: iPewds moved too quickly! 255.1121551312035,-64.0,-222.63603708081814
+[19:14:04] [Server thread/INFO]: iPewds fell out of the world
+[19:14:47] [Server thread/INFO]: [iPewds: Gamerule keepInventory is now set to: true]
+[19:14:59] [Server thread/INFO]: [iPewds: Teleported iPewds to 1.5, 1.0, 1.5]
+[19:14:59] [Server thread/WARN]: iPewds moved too quickly! 261.0939890144289,-63.0,-155.5416490331416
+[19:15:47] [Server thread/INFO]: [iPewds: Teleported iPewds to 0.5, 1.0, 0.5]
+[19:20:34] [Server thread/INFO]: [iPewds: Teleported iPewds to -253.5, 64.0, 223.5]
+[19:20:34] [Server thread/WARN]: iPewds moved too quickly! -254.03809833535905,29.51224952432559,223.19999998807907
+[19:20:35] [Server thread/WARN]: iPewds moved too quickly! -254.03809833535905,29.51224952432559,223.19999998807907
+[19:22:50] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[19:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[18:25:06] [Server thread/INFO]: <iPewds> -254 64 223
+[18:25:18] [Server thread/WARN]: IllIllIllII moved too quickly! -9.281894885698417,0.0,4.235636421362983
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17773, l='world', x=-274.46, y=21.34, z=319.42]
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/17774, l='world', x=-276.74, y=20.70, z=319.59]
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17775, l='world', x=-275.54, y=23.50, z=319.39]
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/17776, l='world', x=-276.39, y=19.30, z=320.62]
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17777, l='world', x=-272.49, y=22.67, z=322.37]
+[18:28:30] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17788, l='world', x=-278.58, y=22.31, z=323.74]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17867, l='world', x=-270.29, y=12.56, z=320.50]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/17868, l='world', x=-274.41, y=11.63, z=317.66]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/17869, l='world', x=-269.68, y=8.36, z=319.68]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Redstone Dust'/17870, l='world', x=-270.59, y=8.69, z=319.73]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17871, l='world', x=-270.43, y=12.61, z=322.47]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17872, l='world', x=-270.31, y=12.28, z=321.33]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17876, l='world', x=-268.51, y=7.74, z=322.56]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/17877, l='world', x=-271.35, y=6.60, z=321.61]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Gold Ore'/17878, l='world', x=-268.65, y=8.65, z=323.68]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17879, l='world', x=-271.68, y=12.34, z=319.40]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17880, l='world', x=-268.33, y=10.69, z=321.54]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17881, l='world', x=-268.52, y=11.58, z=320.50]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Gold Ore'/17883, l='world', x=-267.43, y=9.58, z=322.38]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17884, l='world', x=-272.27, y=13.40, z=323.31]
+[18:28:32] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17885, l='world', x=-272.45, y=11.46, z=318.46]
+[18:28:33] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17926, l='world', x=-268.58, y=4.74, z=320.48]
+[18:28:33] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/17927, l='world', x=-272.53, y=6.69, z=322.73]
+[18:28:33] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/17929, l='world', x=-273.44, y=7.61, z=321.52]
+[18:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[18:30:58] [Server thread/INFO]: [iPewds: Teleported IllIllIllII to -253.5, 64.0, 223.5]
+[19:33:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19406, l='world', x=-213.38, y=64.00, z=169.93]
+[19:45:42] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[19:47:51] [Server thread/INFO]: [iPewds: Teleported iPewds to -249.5, 100.0, 223.5]
+[19:48:05] [Server thread/INFO]: [iPewds: Teleported iPewds to -249.5, 100000.0, 223.5]
+[19:48:50] [Server thread/INFO]: [iPewds: Teleported 2 entities to iPewds]
+[19:49:26] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 70.0, 223.5]
+[19:49:26] [Server thread/WARN]: iPewds moved too quickly! -4.0,-93991.19450102901,0.0
+[19:49:26] [Server thread/WARN]: iPewds moved too quickly! -4.0,-93991.19450102901,0.0
+[19:49:59] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 64.0, 225.1816833859766]
+[19:50:05] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 64.0, 225.4109851529617]
+[19:50:07] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 64.0, 225.4109851529617]
+[19:50:09] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 64.0, 225.4109851529617]
+[19:50:17] [Server thread/INFO]: [iPewds: Teleported 2 entities to -253.5, 64.0, 224.03907414567556]
+[19:50:39] [Server thread/INFO]: [iPewds: Teleported iPewds to -253.5, 64.0, -222.5]
+[19:50:44] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Creative Mode]
+[19:50:44] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[19:50:54] [Server thread/INFO]: [iPewds: Teleported iPewds to IllIllIllII]
+[19:51:32] [Server thread/INFO]: iPewds fell out of the world
+[19:51:32] [Server thread/INFO]: [iPewds: Killed iPewds]
+[19:51:53] [Server thread/INFO]: [iPewds: Set own game mode to Adventure Mode]
+[19:52:32] [Server thread/INFO]: [iPewds: Set own game mode to Spectator Mode]
+[19:55:45] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[19:55:45] [Server thread/INFO]: IllIllIllII left the game
+[19:56:12] [Server thread/INFO]: [iPewds: Teleported iPewds to -1679.5, 9.659528906942425, 1280.5]
+[19:56:12] [Server thread/WARN]: iPewds moved too quickly! -1672.3620921333643,0.0,1189.4926392669051
+[19:56:39] [User Authenticator #5/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[19:56:39] [Server thread/INFO]: IllIllIllII[/172.22.122.52:12507] logged in with entity id 24357 at (-330.085869344857, 72.86891920733343, 359.4606398657437)
+[19:56:39] [Server thread/INFO]: IllIllIllII joined the game
+[19:56:45] [Server thread/INFO]: [iPewds: Teleported iPewds to -253.5, 64.0, 223.5]
+[19:56:53] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[19:56:53] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Survival Mode]
+[19:57:35] [Server thread/INFO]: [iPewds: Teleported iPewds to -11247.5, 64.0, -11183.5]
+[19:57:35] [Server thread/WARN]: iPewds moved too quickly! -10997.438220941529,0.0,-11401.175513241278
+[19:57:35] [Server thread/WARN]: iPewds moved too quickly! -10997.438220941529,0.0,-11401.175513241278
+[19:57:36] [Server thread/WARN]: iPewds moved too quickly! 0.0,-10.80652611000901,0.0
+[19:57:41] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[19:57:41] [Server thread/INFO]: [iPewds: Set IllIllIllII's game mode to Creative Mode]
+[19:59:45] [Server thread/WARN]: iPewds moved too quickly! 7.480775261148665,0.0,-7.26026394996552
+[19:59:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[20:02:31] [Server thread/INFO]: [iPewds: Teleported iPewds to -111167.5, 124.7043087123522, -11775.5]
+[20:02:31] [Server thread/WARN]: iPewds moved too quickly! -99887.9080795346,0.0,-621.3966414534952
+[20:02:31] [Server thread/WARN]: iPewds moved too quickly! -99887.9080795346,0.0,-621.3966414534952
+[20:03:07] [Server thread/INFO]: [iPewds: Teleported iPewds to -22455.5, 66.59147345812816, -5431.5]
+[20:03:07] [Server thread/WARN]: iPewds moved too quickly! 88713.61804516077,0.0,6337.487533805448
+[20:03:28] [Server thread/INFO]: iPewds has made the advancement [Eye Spy]
+[20:05:18] [Server thread/INFO]: [iPewds: Teleported 2 entities to iPewds]
+[20:05:18] [Server thread/INFO]: IllIllIllII has made the advancement [Eye Spy]
+[20:06:11] [Server thread/INFO]: iPewds has made the advancement [The End?]
+[20:06:11] [Server thread/WARN]: iPewds moved too quickly! 22594.562744543015,8.1875,5429.356109953241
+[20:06:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:06:13] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[20:06:14] [Server thread/INFO]: IllIllIllII has made the advancement [The End?]
+[20:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[20:06:14] [Server thread/WARN]: IllIllIllII moved too quickly! 22594.380648569808,8.521969839324257,5429.9690871013245
+[20:10:17] [Server thread/INFO]: IllIllIllII has made the advancement [Free the End]
+[20:10:46] [Server thread/INFO]: iPewds has reached the goal [The Next Generation]
+[20:11:11] [Server thread/INFO]: IllIllIllII has reached the goal [The Next Generation]
+[20:11:49] [Server thread/INFO]: IllIllIllII has made the advancement [Remote Getaway]
+[20:11:55] [Server thread/INFO]: iPewds has made the advancement [Remote Getaway]
+[20:13:30] [Server thread/INFO]: [iPewds: Teleported iPewds to IllIllIllII]
+[20:14:02] [Server thread/INFO]: iPewds has made the advancement [The City at the End of the Game]
+[20:14:13] [Server thread/INFO]: IllIllIllII has made the advancement [The City at the End of the Game]
+[20:14:48] [Server thread/WARN]: IllIllIllII moved too quickly! -1.6670819578966984,-1.1654829676897123,-18.49854552449858
+[20:19:00] [Server thread/INFO]: [iPewds: Teleported iPewds to 1072.5, 59.0, 32.5]
+[20:19:00] [Server thread/WARN]: iPewds moved too quickly! -792.0617737853506,0.0,497.5667911137624
+[20:19:00] [Server thread/WARN]: iPewds moved too quickly! -792.0617737853506,0.0,497.5667911137624
+[20:19:00] [Server thread/WARN]: iPewds moved too quickly! -792.0617737853506,0.0,497.5667911137624
+[20:20:28] [Server thread/INFO]: [iPewds: Teleported iPewds to IllIllIllII]
+[20:20:28] [Server thread/WARN]: iPewds moved too quickly! -714.7984338333978,-4.868452661111263,-14.609064930392343
+[20:20:28] [Server thread/WARN]: iPewds moved too quickly! -714.7984338333978,-4.868452661111263,-14.609064930392343
+[20:20:28] [Server thread/WARN]: iPewds moved too quickly! -714.7984338333978,-4.868452661111263,-14.609064930392343
+[20:24:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/35208, l='world', x=-208.18, y=64.00, z=193.51]
+[20:24:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/35208, l='world', x=-208.18, y=64.00, z=193.51]
+[20:34:15] [Server thread/INFO]: [iPewds: Teleported iPewds to -375.5, 64.0, 1592.5]
+[20:34:15] [Server thread/WARN]: iPewds moved too quickly! -122.99391447134593,0.0,1377.8499682533331
+[20:34:15] [Server thread/WARN]: iPewds moved too quickly! -122.99391447134593,0.0,1377.8499682533331
+[20:34:15] [Server thread/WARN]: iPewds moved too quickly! -122.99391447134593,0.0,1377.8499682533331
+[20:35:09] [Server thread/INFO]: [iPewds: Teleported iPewds to -375.5, 22.0, 1592.5]
+[20:38:52] [Server thread/INFO]: [iPewds: Teleported iPewds to IllIllIllII]
+[20:38:52] [Server thread/WARN]: iPewds moved too quickly! 187.66905365309592,43.0,-1372.4103882005652
+[20:38:52] [Server thread/WARN]: iPewds moved too quickly! 187.66905365309592,43.0,-1372.4103882005652
+[20:52:14] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[20:52:14] [Server thread/INFO]: IllIllIllII left the game
+[20:53:32] [User Authenticator #6/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[20:53:32] [Server thread/INFO]: IllIllIllII[/172.22.122.52:16388] logged in with entity id 40498 at (-219.30000001192093, 73.13163989902972, 223.0582079379264)
+[20:53:32] [Server thread/INFO]: IllIllIllII joined the game
+[21:04:04] [Server thread/INFO]: iPewds has reached the goal [You Need a Mint]
+[21:04:50] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[21:04:50] [Server thread/INFO]: IllIllIllII left the game
+[21:04:55] [Server thread/INFO]: iPewds lost connection: Disconnected
+[21:04:55] [Server thread/INFO]: iPewds left the game
+[21:29:41] [User Authenticator #7/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[21:29:41] [Server thread/INFO]: IllIllIllII[/172.22.122.52:1798] logged in with entity id 42089 at (-314.69999998807907, 84.0, 253.4978524971262)
+[21:29:41] [Server thread/INFO]: IllIllIllII joined the game
+[21:47:09] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:47:09] [Server thread/INFO]: Saved the game
+[21:47:16] [Server thread/INFO]: Stopping the server
+[21:47:16] [Server thread/INFO]: Stopping server
+[21:47:16] [Server thread/INFO]: Saving players
+[21:47:16] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[21:47:16] [Server thread/INFO]: IllIllIllII left the game
+[21:47:16] [Server thread/INFO]: Saving worlds
+[21:47:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:47:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:47:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:47:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:47:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
