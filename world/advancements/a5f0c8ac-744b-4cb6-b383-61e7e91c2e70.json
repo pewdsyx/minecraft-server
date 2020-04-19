@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-18 18:28:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-29 20:13:53 +0100"
@@ -1065,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-04-18 18:07:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-03-18 21:02:22 +0100"
@@ -1134,6 +1146,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-02-27 17:16:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-18 18:07:32 +0200"
     },
     "done": true
   },
@@ -1372,6 +1390,7 @@
       "minecraft:river": "2020-02-27 17:13:51 +0100",
       "minecraft:wooded_mountains": "2020-03-22 17:25:42 +0100",
       "minecraft:wooded_hills": "2020-02-27 17:14:23 +0100",
+      "minecraft:stone_shore": "2020-04-18 17:37:08 +0200",
       "minecraft:swamp": "2020-02-27 17:42:43 +0100",
       "minecraft:plains": "2020-02-27 17:12:37 +0100"
     },
@@ -1470,6 +1489,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-12 18:16:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-18 20:13:22 +0200"
     },
     "done": true
   },
@@ -1954,11 +1979,13 @@
       "cooked_beef": "2020-02-29 22:07:24 +0100",
       "beef": "2020-02-29 19:05:19 +0100",
       "apple": "2020-02-27 17:31:19 +0100",
+      "potato": "2020-04-18 17:31:48 +0200",
       "mutton": "2020-02-27 18:13:19 +0100",
       "bread": "2020-02-27 17:24:03 +0100",
       "rotten_flesh": "2020-02-29 22:03:31 +0100",
       "golden_carrot": "2020-03-15 17:13:01 +0100",
-      "cooked_chicken": "2020-03-22 15:50:52 +0100"
+      "cooked_chicken": "2020-03-22 15:50:52 +0100",
+      "carrot": "2020-04-18 17:32:01 +0200"
     },
     "done": false
   },
@@ -2539,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-04-18 18:28:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-02-29 20:03:32 +0100"
@@ -2935,6 +2968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-04-19 19:57:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-02-29 18:15:35 +0100"
@@ -3106,6 +3145,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-03-01 19:56:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-04-18 18:27:55 +0200"
     },
     "done": true
   },
