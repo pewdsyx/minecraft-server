@@ -42,3 +42,16 @@
 [20:26:22] [Server thread/INFO]: Saved the game
 [20:26:40] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
 [20:26:40] [Server thread/INFO]: IllIllIllII left the game
+[20:26:47] [Server thread/INFO]: Stopping the server
+[20:26:48] [Server thread/INFO]: Stopping server
+[20:26:48] [Server thread/INFO]: Saving players
+[20:26:48] [Server thread/INFO]: Saving worlds
+[20:26:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:26:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:26:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
