@@ -664,6 +664,7 @@
       "minecraft:creeper": "2020-02-15 22:14:06 +0100",
       "minecraft:slime": "2020-02-27 18:25:22 +0100",
       "minecraft:phantom": "2020-03-15 16:28:25 +0100",
+      "minecraft:wither_skeleton": "2020-06-21 20:58:50 +0200",
       "minecraft:shulker": "2020-03-29 19:41:41 +0200",
       "minecraft:enderman": "2020-03-19 21:43:28 +0100",
       "minecraft:silverfish": "2020-03-29 20:03:47 +0200",
@@ -820,6 +821,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-15 21:12:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-06-21 21:22:18 +0200"
     },
     "done": true
   },
@@ -1165,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-06-21 20:58:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-15 21:12:27 +0100"
@@ -1274,6 +1287,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-02-15 19:36:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-06-21 20:46:08 +0200"
     },
     "done": true
   },
@@ -1412,6 +1431,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-02-16 21:00:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-06-21 20:58:53 +0200"
     },
     "done": true
   },
@@ -1613,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-06-21 20:58:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-02-15 19:33:45 +0100"
@@ -1757,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-06-21 20:27:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2020-02-16 21:29:01 +0100"
@@ -1799,6 +1836,7 @@
       "sweet_berries": "2020-04-18 18:32:17 +0200",
       "cooked_beef": "2020-02-29 19:34:47 +0100",
       "apple": "2020-02-15 21:19:34 +0100",
+      "potato": "2020-06-21 21:23:24 +0200",
       "pumpkin_pie": "2020-03-01 20:41:38 +0100",
       "bread": "2020-02-15 19:32:58 +0100",
       "golden_apple": "2020-03-15 16:41:46 +0100",
@@ -2223,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-06-21 21:22:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-03-29 20:23:57 +0200"
@@ -2280,6 +2324,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-02-15 19:45:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-06-21 21:22:18 +0200"
     },
     "done": true
   },
@@ -2700,6 +2750,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-02-29 22:13:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-06-21 20:46:08 +0200"
     },
     "done": true
   },
