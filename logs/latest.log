@@ -1,53 +1,156 @@
-[23:16:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[23:16:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:16:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:16:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:16:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:16:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:16:27] [main/INFO]: Reloading ResourceManager: Default
-[23:16:28] [Worker-Main-11/INFO]: Loaded 7 recipes
-[23:16:28] [Worker-Main-11/INFO]: Loaded 927 advancements
-[23:16:30] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[23:16:30] [Server thread/INFO]: Loading properties
-[23:16:30] [Server thread/INFO]: Default game type: SURVIVAL
-[23:16:30] [Server thread/INFO]: Generating keypair
-[23:16:30] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
-[23:16:30] [Server thread/INFO]: Using default channel type
-[23:16:31] [Server thread/INFO]: Preparing level "world"
-[23:16:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:16:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 0%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 47%
-[23:16:39] [Server thread/INFO]: Preparing spawn area: 83%
-[23:16:42] [Server thread/INFO]: Time elapsed: 10699 ms
-[23:16:42] [Server thread/INFO]: Done (10.805s)! For help, type "help"
-[23:16:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[23:16:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:16:59] [Server thread/INFO]: exit<--[HERE]
-[23:17:00] [Server thread/INFO]: Stopping the server
-[23:17:00] [Server thread/INFO]: Stopping server
-[23:17:00] [Server thread/INFO]: Saving players
-[23:17:00] [Server thread/INFO]: Saving worlds
-[23:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:53:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:53:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:53:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:53:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:53:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:53:15] [main/INFO]: Reloading ResourceManager: Default
+[21:53:17] [Worker-Main-9/INFO]: Loaded 7 recipes
+[21:53:17] [Worker-Main-9/INFO]: Loaded 927 advancements
+[21:53:18] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[21:53:18] [Server thread/INFO]: Loading properties
+[21:53:18] [Server thread/INFO]: Default game type: SURVIVAL
+[21:53:18] [Server thread/INFO]: Generating keypair
+[21:53:18] [Server thread/INFO]: Starting Minecraft server on 172.22.188.90:25565
+[21:53:18] [Server thread/INFO]: Using default channel type
+[21:53:19] [Server thread/INFO]: Preparing level "world"
+[21:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[21:53:27] [Server thread/INFO]: Preparing spawn area: 83%
+[21:53:29] [Server thread/INFO]: Time elapsed: 10539 ms
+[21:53:29] [Server thread/INFO]: Done (10.660s)! For help, type "help"
+[21:54:15] [User Authenticator #1/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[21:54:16] [Server thread/INFO]: iPewds[/172.22.188.90:56975] logged in with entity id 412 at (-379.17575444470714, 79.40760107550057, 334.27601012193827)
+[21:54:16] [Server thread/INFO]: iPewds joined the game
+[21:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5202ms or 104 ticks behind
+[21:55:12] [User Authenticator #2/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[21:55:12] [Server thread/INFO]: IllIllIllII[/172.22.122.52:5931] logged in with entity id 720 at (-362.84694342993896, 69.4022033462142, 259.1216409463758)
+[21:55:12] [Server thread/INFO]: IllIllIllII joined the game
+[21:58:57] [Server thread/INFO]: iPewds lost connection: Disconnected
+[21:58:57] [Server thread/INFO]: iPewds left the game
+[22:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
+[22:02:12] [Server thread/WARN]: IllIllIllII moved too quickly! 0.5214344192703493,0.0,-10.050154994011507
+[22:04:08] [User Authenticator #3/INFO]: UUID of player iPewds is e1de882a-361c-4577-8b44-b56ad2c348ea
+[22:04:08] [Server thread/INFO]: iPewds[/172.22.188.90:57826] logged in with entity id 1622 at (-350.74098471910156, 68.57868524172109, 333.68395735381563)
+[22:04:09] [Server thread/INFO]: iPewds joined the game
+[22:04:30] [Server thread/WARN]: IllIllIllII moved too quickly! 9.187965059870066,0.0,4.5480147366045
+[22:07:08] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[22:11:44] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[22:11:44] [Server thread/INFO]: IllIllIllII left the game
+[22:12:04] [User Authenticator #4/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[22:12:04] [Server thread/INFO]: IllIllIllII[/172.22.122.52:6438] logged in with entity id 2452 at (-248.91266602475176, 68.67898779013333, 349.324738612725)
+[22:12:04] [Server thread/INFO]: IllIllIllII joined the game
+[22:13:42] [Server thread/WARN]: IllIllIllII moved too quickly! 0.1023852997543031,2.6194900875214557,-9.7017867404831
+[22:13:47] [Server thread/WARN]: IllIllIllII moved too quickly! 0.7918622751067801,3.3737880335330317,-9.655965891261815
+[22:14:00] [Server thread/WARN]: IllIllIllII moved too quickly! -0.9169879354585646,-3.8184941768288496,-17.543561180036136
+[22:14:03] [Server thread/WARN]: IllIllIllII moved too quickly! 3.4482585134186934,0.943614867099484,-17.976907496064797
+[22:14:10] [Server thread/WARN]: IllIllIllII moved too quickly! 3.7910468647323796,-1.7070169967595632,-17.19189505965312
+[22:15:34] [Server thread/INFO]: IllIllIllII has made the advancement [Acquire Hardware]
+[22:20:56] [Server thread/WARN]: IllIllIllII moved too quickly! 2.399499302961459,-9.207018666954639,3.164819234323943
+[22:35:51] [Server thread/WARN]: IllIllIllII moved too quickly! -7.755005826281149,-6.665055583280193,-0.28399738994528434
+[22:40:22] [Server thread/WARN]: IllIllIllII moved too quickly! -1.4247498458425127,9.412500949732504,-3.1938005788090322
+[22:40:47] [Server thread/WARN]: IllIllIllII moved too quickly! -7.058416439620146,5.437658903505437,5.230198259549297
+[22:40:51] [Server thread/WARN]: IllIllIllII moved too quickly! 6.875527780935101,-4.500098263873127,5.9282961735568165
+[22:41:23] [Server thread/INFO]: IllIllIllII lost connection: Timed out
+[22:41:23] [Server thread/INFO]: IllIllIllII left the game
+[22:41:23] [Server thread/WARN]: handleDisconnection() called twice
+[22:41:27] [User Authenticator #5/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[22:41:27] [Server thread/INFO]: IllIllIllII[/172.22.122.52:7421] logged in with entity id 6019 at (-231.93065361295268, 65.37990527572038, 360.6839322135797)
+[22:41:27] [Server thread/INFO]: IllIllIllII joined the game
+[22:42:10] [Server thread/WARN]: IllIllIllII moved too quickly! -8.166199859685292,4.825434372669079,3.1790930146368623
+[22:42:14] [Server thread/WARN]: IllIllIllII moved too quickly! -4.632092035004149,7.5420319962466635,-4.974883069382997
+[22:42:18] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[22:42:24] [Server thread/WARN]: IllIllIllII moved too quickly! 10.095642284084818,-1.1175929378491531,-0.7041843790402709
+[22:42:51] [Server thread/WARN]: IllIllIllII moved too quickly! 7.914780165798362,0.0037791361501433585,-6.426655391542738
+[22:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[22:49:00] [Server thread/WARN]: IllIllIllII moved too quickly! -0.06454755169019677,0.20000004768371582,-10.136657094049042
+[22:56:03] [Server thread/WARN]: IllIllIllII moved too quickly! -9.31721599280155,0.0,-4.328888496983893
+[23:04:15] [Server thread/INFO]: [iPewds: Set the weather to clear]
+[23:05:35] [Server thread/WARN]: IllIllIllII moved too quickly! 10.079331541068598,1.0840297961102223,0.2619050269053673
+[23:06:59] [Server thread/WARN]: IllIllIllII moved too quickly! 10.184789569717111,0.0,0.20790845999920293
+[23:07:13] [Server thread/WARN]: IllIllIllII moved too quickly! 10.244596150920131,0.0,0.24101431885350166
+[23:07:56] [Server thread/WARN]: IllIllIllII moved too quickly! 10.211620872149524,0.0,0.0
+[23:09:01] [Server thread/WARN]: IllIllIllII moved too quickly! 1.1072085254485273,2.8056075431341583,9.899943010972606
+[23:09:13] [Server thread/WARN]: IllIllIllII moved too quickly! -1.8282865116335074,0.0,9.872284947430842
+[23:09:17] [Server thread/WARN]: IllIllIllII moved too quickly! 7.817976368030202,-5.437658903505437,-4.588848607612249
+[23:10:30] [Server thread/WARN]: IllIllIllII moved too quickly! -5.175803583675076,0.22364064226849223,-8.556840758630472
+[23:12:11] [Server thread/INFO]: [iPewds: Set the weather to clear]
+[23:12:13] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[23:12:22] [Server thread/WARN]: IllIllIllII moved too quickly! -9.719169358758904,-2.505466059596671,1.8790777780088774
+[23:13:30] [Server thread/INFO]: [iPewds: Set own game mode to Survival Mode]
+[23:13:49] [Server thread/INFO]: [iPewds: Set own game mode to Creative Mode]
+[23:16:13] [Server thread/WARN]: IllIllIllII moved too quickly! -2.9324483275413513,22.757035012245183,2.8959476202726364
+[23:16:27] [Server thread/WARN]: IllIllIllII moved too quickly! 0.3393032838678778,-10.312500617038765,1.0578202489092519
+[23:16:32] [Server thread/WARN]: IllIllIllII moved too quickly! -0.5656381726657855,-9.294848118642719,-5.015604874766268
+[23:18:07] [Server thread/INFO]: [iPewds: Set the weather to clear]
+[23:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[23:18:49] [Server thread/WARN]: IllIllIllII moved too quickly! -4.648387580563906,1.2689477414360084,-8.937250429869437
+[23:19:35] [Server thread/WARN]: iPewds moved too quickly! -8.122397496029578,0.0,6.275077166103642
+[23:23:50] [Server thread/INFO]: Villager bdp['N'/128, l='ServerLevel[world]', x=-314.24, y=64.00, z=204.56] was struck by lightning aox['Lightning Bolt'/12232, l='ServerLevel[world]', x=-314.50, y=64.00, z=207.50].
+[23:24:28] [Server thread/WARN]: IllIllIllII moved too quickly! 2.0684047068187965,2.9569947815388105,-9.46899155757535
+[23:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23:28:07] [Server thread/INFO]: [iPewds: Set the weather to clear]
+[23:28:14] [Server thread/INFO]: [iPewds: Set the time to 1000]
+[23:33:42] [User Authenticator #6/INFO]: UUID of player IllIllIllII is a5f0c8ac-744b-4cb6-b383-61e7e91c2e70
+[23:33:52] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[23:33:52] [Server thread/INFO]: IllIllIllII left the game
+[23:33:52] [Server thread/INFO]: IllIllIllII[/172.22.122.52:9035] logged in with entity id 13385 at (-325.26518520502384, 79.06472460158163, 244.63580510557648)
+[23:33:52] [Server thread/INFO]: IllIllIllII joined the game
+[23:35:35] [Server thread/WARN]: IllIllIllII moved too quickly! -5.755737396077166,8.25075750195279,0.3191076211531936
+[23:35:44] [Server thread/WARN]: IllIllIllII moved too quickly! 8.175404042058005,3.9317313678776458,-4.273188821649285
+[23:36:04] [Server thread/WARN]: IllIllIllII moved too quickly! -2.4081495163124487,-2.078246482582088,-9.840924631162238
+[23:36:22] [Server thread/WARN]: IllIllIllII moved too quickly! -1.6487149514176167,0.0,-10.068645753294078
+[23:36:29] [Server thread/WARN]: IllIllIllII moved too quickly! 9.222662718523793,0.0,-4.808004424632287
+[23:36:36] [Server thread/WARN]: IllIllIllII moved too quickly! -4.3289974602449774,0.0,9.597824809486013
+[23:36:41] [Server thread/WARN]: IllIllIllII moved too quickly! -8.854986709391028,0.0,5.490840254284649
+[23:36:44] [Server thread/WARN]: IllIllIllII moved too quickly! -3.821876683012306,-9.375114131508312,5.072362042219993
+[23:36:51] [Server thread/WARN]: IllIllIllII moved too quickly! -3.0733083186613044,0.966240038394929,9.838398668313062
+[23:36:56] [Server thread/WARN]: IllIllIllII moved too quickly! 4.89540484847862,-2.994426627447183,-8.404579028198611
+[23:37:03] [Server thread/WARN]: IllIllIllII moved too quickly! -2.5985594261643428,-1.0104000401496904,10.191051700323044
+[23:37:59] [Server thread/INFO]: iPewds has made the advancement [A Seedy Place]
+[23:38:14] [Server thread/INFO]: iPewds has completed the challenge [Serious Dedication]
+[23:38:49] [Server thread/WARN]: iPewds moved too quickly! 1.047904784231946,17.534310879825597,-1.1337663141629832
+[23:38:49] [Server thread/WARN]: iPewds moved too quickly! 1.0452224337926168,17.488030127365136,-1.1308648985669834
+[23:39:11] [Server thread/WARN]: IllIllIllII moved too quickly! -1.6626182746744007,-3.1909013491950162,-9.349243770366854
+[23:39:34] [Server thread/WARN]: IllIllIllII moved too quickly! -3.6007195161068353,0.0,9.340261680086229
+[23:41:15] [Server thread/WARN]: IllIllIllII moved too quickly! -1.1142918330169778,-6.374987791541116,7.763595421261584
+[23:42:09] [Server thread/WARN]: IllIllIllII moved too quickly! 0.25310222459989973,-8.037534593785693,-6.050617219106073
+[23:46:51] [Server thread/WARN]: IllIllIllII moved too quickly! -7.697576897604904,0.39000001549720764,-6.8801744677898
+[23:47:01] [Server thread/WARN]: IllIllIllII moved too quickly! 0.9828884459486744,19.520991584585545,0.6292501213273454
+[23:47:07] [Server thread/WARN]: IllIllIllII moved too quickly! 1.518167574260417,0.7512193623230274,-9.929217286674714
+[23:47:21] [Server thread/WARN]: IllIllIllII moved too quickly! 8.999980701076822,0.1880706277665638,5.224956072879081
+[23:47:22] [Server thread/INFO]: iPewds lost connection: Disconnected
+[23:47:22] [Server thread/INFO]: iPewds left the game
+[23:47:27] [Server thread/INFO]: IllIllIllII lost connection: Disconnected
+[23:47:27] [Server thread/INFO]: IllIllIllII left the game
+[23:47:30] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:47:30] [Server thread/INFO]: Saved the game
+[23:47:31] [Server thread/INFO]: Stopping the server
+[23:47:31] [Server thread/INFO]: Stopping server
+[23:47:31] [Server thread/INFO]: Saving players
+[23:47:31] [Server thread/INFO]: Saving worlds
+[23:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

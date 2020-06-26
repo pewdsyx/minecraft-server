@@ -694,6 +694,7 @@
     "criteria": {
       "minecraft:blaze": "2020-03-29 19:39:36 +0200",
       "minecraft:skeleton": "2020-02-15 23:27:06 +0100",
+      "minecraft:ravager": "2020-06-26 23:41:57 +0200",
       "minecraft:ghast": "2020-06-25 22:58:22 +0200",
       "minecraft:vindicator": "2020-03-29 20:00:39 +0200",
       "minecraft:spider": "2020-02-27 18:06:14 +0100",
@@ -1089,9 +1090,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-06-26 23:34:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-15 21:12:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2020-06-26 23:38:14 +0200"
     },
     "done": true
   },
@@ -1134,6 +1147,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-02-15 22:42:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-06-26 23:13:20 +0200"
     },
     "done": true
   },
@@ -1423,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-06-26 23:37:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-02-15 22:06:34 +0100"
@@ -1646,6 +1671,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2020-03-15 14:46:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-06-26 23:18:56 +0200"
     },
     "done": true
   },
@@ -3343,6 +3374,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2020-06-25 23:05:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2020-06-26 23:18:56 +0200"
     },
     "done": true
   },
